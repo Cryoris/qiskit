@@ -736,7 +736,7 @@ Once the compilers are installed, you are ready to install Qiskit Terra.
 
    .. code:: sh
 
-      pip install -r requirements-dev.txt
+      pip install -r requirements.txt -r requirements-dev.txt
 
 5. Install ``qiskit-terra``.
 
@@ -1054,7 +1054,7 @@ Installing Aqua from Source
 
    .. code:: sh
 
-      pip install -r requirements-dev.txt
+      pip install -r requirements.txt -r requirements-dev.txt
 
 4. Install Aqua.
 
